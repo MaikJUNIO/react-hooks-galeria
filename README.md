@@ -108,4 +108,7 @@ enfocado en buenas prácticas de desarrollo frontend con React.
 </p>
 
 
+🔌 La API REST se encuentra en la rama: api-json-server
+
+
 
